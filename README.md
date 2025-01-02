@@ -1,4 +1,4 @@
-# Bearnav2 (Bearnav-ROS2)
+# Multi-Modal Teach & Repeat 
 
 ## Overview
 
