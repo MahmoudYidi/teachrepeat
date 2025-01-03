@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Bearnav2** is the ROS2 version of the [Bearnav project](https://github.com/LCAS/bearnav2). It provides a framework for robotics teach and repeat. This ROS2 version includes a more friendly GUI and easy UI for mapping/recording as well as providing support for ROS2. 
+ 
 
 ## Installation
 
